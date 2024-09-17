@@ -63,7 +63,7 @@ This allows you to build more complex responses based on user input.
 
 Check out the chatbot in action:
 
-- **Screenshot 1**: ![Chatbot Screenshot](path-to-your-screenshot)
+- **Screenshot 1**: ![Chatbot Screenshot] [(https://github.com/ibk-techgirl/my-chatbot-project/blob/main/Screenshot%202024-09-17%20161455.png)]
 - **Demo Video**: [Watch the demo here](link-to-your-video)
 
 ## 🌟 Future Improvements
